@@ -1,0 +1,32 @@
+p{
+    color:silver;
+    font-size: 11px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.highlight {
+    color:orange;
+}
+
+#main{
+    color:red;
+}
+
+.myTable{
+    border-collapse: collapse;
+    border: 1px solid #000;
+    width:425px;
+    text-align: left;
+}
+
+.myTable tr td, .myTable tr th{
+    border: 1px solid #000;
+}
+
+.myTable tr th{
+
+}
+
+.centerText{
+    text-align: center;
+}

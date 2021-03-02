@@ -1,0 +1,38 @@
+body{
+    /* background-image:url('../img/bg-3.jpg'); */
+    background: #eee;
+}
+
+header{
+    border:3px solid blue;
+    
+}
+
+main{
+    border: 3px solid green;
+    margin:10px 25px;
+    padding:5px 10px;
+}
+/* 
+.flex-container{
+    display: flex;
+} */
+
+footer{
+    border: 3px solid purple;
+}
+
+.logo{
+    padding:5px;
+    background-color: orange;
+}
+.nav{
+    padding:5px;
+    background-color: silver;
+}
+
+.test{
+    width:1500px;
+    height:300px;
+    background: lightcyan;
+}
